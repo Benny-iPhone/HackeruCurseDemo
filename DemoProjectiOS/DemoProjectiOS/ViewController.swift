@@ -13,14 +13,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
-        loadData()
+
+        loadData2()
     }
-    
-    private func loadData(){
-        //TBD
+
+    func loadData2() {
+        
     }
 
 
 }
-
